@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+*.db
+backend/data/prices/*.csv
+.dart_tool/
+.flutter-plugins*
+build/
+.idea/
+.vscode/
